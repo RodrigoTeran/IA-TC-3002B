@@ -17,7 +17,7 @@ Columnas y tipo de dato:
 - `seller_type`: ['Individual', 'Dealer', 'Trustmark Dealer’]
 - `transmission`: ['Automatic', 'Manual’]
 - `owner`: ['Second Owner', 'Third Owner', 'First Owner', 'Fourth & Above Owner’]
-- `mileage`(km/ltr/kg): number
+- `mileage (km/ltr/kg)`: number
 - `engine`: number
 - `max_power`: number
 - `seats`: number
